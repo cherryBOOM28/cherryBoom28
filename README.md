@@ -74,21 +74,6 @@
 
 
 ##   
-*Make it work, make it right, make it fast.*  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
+<div align="center">🍃Make it work, make it right, make it fast🍃</div>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
