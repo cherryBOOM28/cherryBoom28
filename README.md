@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning React.js and Next.js  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
