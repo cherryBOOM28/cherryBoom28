@@ -55,9 +55,9 @@
 <a href="https://github.com/cherryBOOM28" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/_cherrybooom_?igsh=MTRyb3p2NzgxNzd1YQ%3D%3D&utm_source=qr" target="_blank">
+<!-- <a href="https://www.instagram.com/_cherrybooom_?igsh=MTRyb3p2NzgxNzd1YQ%3D%3D&utm_source=qr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>  
   
 
