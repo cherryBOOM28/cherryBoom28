@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my pet projects  
   
 
-- 🌱 I’m currently learning React.js and Next.js  
+- 🌱 I’m currently learning React.js and Node.js  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
