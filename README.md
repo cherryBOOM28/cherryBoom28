@@ -53,12 +53,15 @@
 <a href="https://www.linkedin.com/in/louisasapina/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+  <a href="https://leetcode.com/u/user4064Av/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" 
+       alt="leetcode" 
+       style="margin-bottom: 5px;" />
+</a>
+
 <a href="https://github.com/cherryBOOM28" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://www.instagram.com/_cherrybooom_?igsh=MTRyb3p2NzgxNzd1YQ%3D%3D&utm_source=qr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>   -->
+
 </div>  
   
 
